@@ -29,6 +29,6 @@ fill(#ffb700);
 noStroke();
 rect(150,200,60,60);
 fill(#edaa00);
-ellipse(
+
 }
 }
